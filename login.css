@@ -20,6 +20,7 @@ header{
 }
 
 header > h1{
+    text-transform: uppercase;
     background-color: rgb(255, 123, 0);
     color: white;
     width: 30%;
